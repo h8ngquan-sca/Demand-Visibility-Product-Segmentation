@@ -1,6 +1,6 @@
 # Demand Visibility & Product Segmentation
 
-![Python|78](https://img.shields.io/badge/Python-3.11-blue) ![pandas](https://img.shields.io/badge/pandas-2.2-green) ![seaborn](https://img.shields.io/badge/seaborn-0.13-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Python|78](https://img.shields.io/badge/Python-blue) ![pandas](https://img.shields.io/badge/pandas-green) ![seaborn](https://img.shields.io/badge/seaborn-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 > Transforming a 1M+ record manufacturing dataset into an actionable ABC-XYZ inventory segmentation framework — identifying the 4 highest-risk SKUs driving critical supply chain vulnerability.
 
