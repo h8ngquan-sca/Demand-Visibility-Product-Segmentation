@@ -1,0 +1,10 @@
+abc_xyz_class,product_count,inventory_policy,forecasting_method,priority
+AX,57,"High service level (98%+), lean safety stock",Moving Average / Simple ETS,2
+AY,23,"High service level (98%+), seasonal buffer",Prophet / Seasonal ETS,3
+AZ,4,"High safety stock, strict manual oversight",Qualitative consensus / Scenario planning,1
+BX,85,"Standard service level (95%), automated reorder",Moving Average / Simple ETS,4
+BY,90,"Standard service level (95%), seasonal buffer",Prophet / Seasonal ETS (Automated),5
+BZ,27,High buffer or transition to Make-to-Order (MTO),Exception-based / Qualitative inputs,6
+CX,129,"Cost-driven, fully automated Reorder Point (ROP)",Naive forecast / Simple Moving Average,7
+CY,1034,"Minimal stock, candidate for SKU rationalization",Basic seasonal baseline (Zero-touch),8
+CZ,711,Strict Make-to-Order (MTO) or phase-out/delist,No mathematical forecasting (Reactive),9
